@@ -6,11 +6,6 @@ def using_times
 	  puts a
 	  arr << a 
   end
-  
-  b = arr.join
-  puts b
-  
-  
 end
 
 
