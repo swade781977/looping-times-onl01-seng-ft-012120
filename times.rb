@@ -5,8 +5,8 @@ def using_times
 	7.times do
 	   arr << a 
   end
-  arr.join
-  
+  b = arr.join
+  puts b
   
   
 end
