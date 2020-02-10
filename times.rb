@@ -1,5 +1,11 @@
 def using_times
-	#your code here
+	a = "Wingardium Leviosa"
+	arr = []
+	
+	7.times do
+	  puts a
+	  arr << a 
+  end
 end
 
 
