@@ -3,9 +3,10 @@ def using_times
 	arr = []
 	
 	7.times do
-	   arr << a 
+	  puts a
+	  arr << a 
   end
-  arr.each{|item| puts item}
+  
   b = arr.join
   puts b
   
